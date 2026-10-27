@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "eecpro-rag": {
+      "type": "http",
+      "url": "https://rageecpro.covaga.xyz/mcp"
+    }
+  }
+}
