@@ -109,6 +109,9 @@ costs little context until it is needed.
   documentation indexes.
 - **[eplan-mcp](https://github.com/Canary-ECAD/eplan-mcp)** — the local MCP server that lets the agent
   *execute* inside a running EPLAN.
+- **[Bochica](https://github.com/Canary-ECAD/bochica)** — a Windows desktop app
+  that bundles this skill, eplan-mcp and the documentation RAGs behind a chat, for people
+  who don't program. Works with any AI provider.
 
 ## License
 
